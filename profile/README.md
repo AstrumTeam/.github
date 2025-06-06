@@ -6,4 +6,5 @@ We are open to any proposals.
 ## Achievements
 
 - 🥇 Hackathon «АтомикХак» (2023)
+- 🥈 Hackathon «Код Победы» (2025)
 - 🥉 International hackathon «Цифровой прорыв. Сезон: Искусственный интелект» (2023)
